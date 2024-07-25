@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* ------------------------------------- */
+nav{
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+}
+
+.nav_bar{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.itens_nav{
+    margin: 30px;
+    text-decoration: none;
+    font-size: 20px;
+    align-items: center;
+    color: white;
+}
+
+.titulo{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divisao{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin-top: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.setor{
+    width: 60%;
+    margin-top: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.subtitulos{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.subtitulos1{
+    border-top: 2px solid black;
+    text-align: center;
+    padding: 20px;
+}
+
+.conteudo{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.conteudo1{
+    text-align: left;
+    margin-top: 15px;
+}
+
+.setor img{
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.html h3{
+    text-align: center; 
+} 
+
+.html ul{
+    margin-top: 30px;
+    list-style-type: none;
+}
+
+.html ul li img{
+    margin-top: 15px;
+    width: 70%;
+    padding-bottom: 20px;
+}
+
+#ol{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+#itens_ol2{
+    margin-top: 2px;
+    margin-left: 50px;
+}
+
+#itens_ol1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#itens_ol3{
+    margin-top: 2px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+#ul{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+#itens_ul2{
+    list-style-type: disc;
+    margin-top: 2px;
+    margin-left: 50px;
+}
+
+#itens_ul1{
+    list-style-type: disc;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#itens_ul3{
+    list-style-type: disc;
+    margin-top: 2px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+#table{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+#table1{
+    margin-top: 20px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+.img{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+.img1{
+    width: 200px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.a{
+    border-top: 2px solid black;
+    padding-top: 20px;
+}
+
+.link{
+    margin-top: 20px;
+}
